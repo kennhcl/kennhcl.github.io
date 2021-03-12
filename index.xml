@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim Eichler&#39;s Blog</title>
-    <link>http://example.org/</link>
+    <link>http://kennthebrian.github.io/</link>
     <description>Recent content on Tim Eichler&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 13:24:41 +0300</lastBuildDate><atom:link href="http://kennthebrian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://example.org/posts/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>About Me</title>
+      <link>http://kennthebrian.github.io/about/</link>
+      <pubDate>Fri, 26 Feb 2021 13:02:49 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://kennthebrian.github.io/about/</guid>
+      <description>My name is Timothy Eichler. I am a developer who happens to be pretty good at systems development. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://example.org/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Rethinking The Web</title>
+      <link>http://kennthebrian.github.io/posts/2021/02/rethinking-the-web/</link>
+      <pubDate>Fri, 26 Feb 2021 10:32:06 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://kennthebrian.github.io/posts/2021/02/rethinking-the-web/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+Aenean commodo ligula eget dolor. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Integer tincidunt.</description>
     </item>
     
     <item>
-      <title>Création d&#39;un nouveau thème</title>
-      <link>http://example.org/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Tech Conference</title>
+      <link>http://kennthebrian.github.io/eggs/ted-talk/</link>
+      <pubDate>Fri, 26 Feb 2021 10:32:06 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</guid>
-      <description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
-Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
+      <guid>http://kennthebrian.github.io/eggs/ted-talk/</guid>
+      <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://example.org/posts/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Tech Revolution</title>
+      <link>http://kennthebrian.github.io/posts/2021/02/tech-revolution/</link>
+      <pubDate>Fri, 26 Feb 2021 10:32:06 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <guid>http://kennthebrian.github.io/posts/2021/02/tech-revolution/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+Aenean commodo ligula eget dolor. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Integer tincidunt.</description>
     </item>
     
     <item>
-      <title>Débuter avec Hugo</title>
-      <link>http://example.org/posts/2014/04/d%C3%A9buter-avec-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>The Basics of Python</title>
+      <link>http://kennthebrian.github.io/posts/2021/02/the-basics-of-python/</link>
+      <pubDate>Fri, 26 Feb 2021 10:32:06 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/04/d%C3%A9buter-avec-hugo/</guid>
-      <description>&lt;h2 id=&#34;étape-1-installer-hugo&#34;&gt;Étape 1. Installer Hugo&lt;/h2&gt;
-&lt;p&gt;Allez sur la page de téléchargements de
-&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo&lt;/a&gt; et téléchargez la version
-appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt;/p&gt;
-&lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
-l&amp;rsquo;étape suivante.&lt;/p&gt;
-&lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;http://example.org/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://kennthebrian.github.io/posts/2021/02/the-basics-of-python/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+Aenean commodo ligula eget dolor. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Integer tincidunt.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://example.org/posts/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>New Approach</title>
+      <link>http://kennthebrian.github.io/posts/2021/02/new-approach/</link>
+      <pubDate>Thu, 25 Feb 2021 11:35:22 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://kennthebrian.github.io/posts/2021/02/new-approach/</guid>
+      <description>New Approach uLorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
     </item>
     
     <item>
-      <title>Introduction aux modèles (Hu)go</title>
-      <link>http://example.org/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Technical Debt</title>
+      <link>http://kennthebrian.github.io/posts/2021/02/technical-debt/</link>
+      <pubDate>Thu, 25 Feb 2021 11:35:22 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</guid>
-      <description>Hugo utilise l&amp;rsquo;excellente librairie go html/template pour son moteur de modèles. c&amp;rsquo;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&amp;rsquo;est juste ce qu&amp;rsquo;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&amp;rsquo;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
-Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.</description>
+      <guid>http://kennthebrian.github.io/posts/2021/02/technical-debt/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+Aenean commodo ligula eget dolor. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Integer tincidunt.</description>
     </item>
     
     <item>
-      <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>http://example.org/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Who am I? Why am I here?</title>
+      <link>http://kennthebrian.github.io/vlogs/12/</link>
+      <pubDate>Tue, 16 Feb 2021 10:32:06 +0300</pubDate>
       
-      <guid>http://example.org/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</guid>
-      <description>&lt;h2 id=&#34;déplacez-le-contenu-statique-vers-static&#34;&gt;Déplacez le contenu statique vers &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Jekyll a une règle comme quoi tout répertoire qui ne commence pas par &lt;code&gt;_&lt;/code&gt; sera
-copié tel-quel dans le répertoire &lt;code&gt;_site&lt;/code&gt;. Hugo garde tout le contenu statique
-dans le répertoire &lt;code&gt;static&lt;/code&gt;. Vous devez donc déplacer tout ce type de contenu
-là-dedans. Avec Jekylll, l&amp;rsquo;arborescence ressemblant à ceci :&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://kennthebrian.github.io/vlogs/12/</guid>
+      <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://kennthebrian.github.io/eggs/ted-talk-copy/</link>
+      <pubDate>Wed, 26 Feb 2020 10:32:06 +0300</pubDate>
+      
+      <guid>http://kennthebrian.github.io/eggs/ted-talk-copy/</guid>
+      <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+    </item>
+    
+    <item>
+      <title>The Weeknd</title>
+      <link>http://kennthebrian.github.io/vlogs/14/</link>
+      <pubDate>Tue, 26 Feb 2019 10:32:06 +0300</pubDate>
+      
+      <guid>http://kennthebrian.github.io/vlogs/14/</guid>
+      <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
     </item>
     
   </channel>

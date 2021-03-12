@@ -2,57 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/</loc>
+    <lastmod>2021-02-26T13:24:41+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/about/</loc>
+    <lastmod>2021-02-26T13:02:49+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/categories/blog/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/categories/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/eggs/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/2021/02/rethinking-the-web/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/eggs/ted-talk/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/2021/02/tech-revolution/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/2021/02/the-basics-of-python/</loc>
+    <lastmod>2021-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/2021/02/new-approach/</loc>
+    <lastmod>2021-02-25T11:35:22+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/posts/2021/02/technical-debt/</loc>
+    <lastmod>2021-02-25T11:35:22+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/vlogs/</loc>
+    <lastmod>2021-02-16T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/vlogs/12/</loc>
+    <lastmod>2021-02-16T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/eggs/ted-talk-copy/</loc>
+    <lastmod>2020-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://kennthebrian.github.io/vlogs/14/</loc>
+    <lastmod>2019-02-26T10:32:06+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://kennthebrian.github.io/tags/</loc>
   </url>
 </urlset>
