@@ -12129,8 +12129,7 @@ section.u-image,
 .u-layout-row {
   flex-direction: row;
   flex-wrap: wrap;
-  min-height: 100%;
-  max-width: 100%;
+
 }
 .u-layout-cell {
   position: relative;
